@@ -40,7 +40,7 @@ Base and style images are in the directory img/. You can use them to generate ne
 
 ### Get a github account
 
-Go [github.com](https://github.com/) and get an account. Hello world. 
+Go [github.com](https://github.com/) and get an account. Hello world. Share your username with me.  
 
 ### Intall git?
 
