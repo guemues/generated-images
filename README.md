@@ -97,7 +97,7 @@ Go the folder to place the project. You can use "dir", "ls" and "dir" commands t
 Use this command to clone git repisotory.
 
 ```
-git clone git clone https://github.com/guemues/generated-images.git
+git clone https://github.com/guemues/generated-images.git
 ```
 
 It will create a folder named "generated-images" in the current directory. 
@@ -129,6 +129,7 @@ This command will retrieve all new changes.
 
 Then tou can add new images
 ```
+git add .
 git commit -m "New images"
 git push origin master
 ```
