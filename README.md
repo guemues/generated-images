@@ -40,7 +40,8 @@ Base and style images are in the directory img/. You can use them to generate ne
 
 ### Get a github account
 
-Go [github.com](https://github.com/) and get an account. Hello world. Share your username with me.  
+Go [github.com](https://github.com/) and get an account. Hello world. 
+**Share your username with me before futher steps.**
 
 ### Intall git?
 
@@ -96,7 +97,7 @@ Go the folder to place the project. You can use "dir", "ls" and "dir" commands t
 Use this command to clone git repisotory.
 
 ```
-git clone git@github.com:guemues/generated-images.git
+git clone git clone https://github.com/guemues/generated-images.git
 ```
 
 It will create a folder named "generated-images" in the current directory. 
@@ -112,6 +113,7 @@ Place the images you generated in the folder "generated-images/generated" which 
 Then run this command from terminal.
 
 ```
+git add .
 git commit -m "New images"
 git push origin master
 ```
