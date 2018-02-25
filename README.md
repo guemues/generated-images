@@ -163,6 +163,20 @@ Id. [Image Id](link)
 
 13. [Image 13](https://www.google.ch/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F8%2F89%2FMarc_Chagall%252C_1912%252C_Calvary_%2528Golgotha%2529_Christus_gewidmet%252C_oil_on_canvas%252C_174.6_x_192.4_cm%252C_Museum_of_Modern_Art%252C_New_York.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMarc_Chagall&docid=aYIn-uf8nDc0sM&tbnid=cTVfrqdrMna6hM%3A&vet=10ahUKEwily5SZjsHXAhUoLcAKHU3qDnoQMwg_KAEwAQ..i&w=660&h=604&bih=776&biw=1439&q=chagall&ved=0ahUKEwily5SZjsHXAhUoLcAKHU3qDnoQMwg_KAEwAQ&iact=mrc&uact=8)
 
+14. [Image 14](http://abduzeedo.com/sites/default/files/styles/home_cover/public/originals/4/4_2.png?itok=UPkC_wC1)
+
+15. [Image 15](http://cultura.biografieonline.it/wp-content/uploads/2016/09/Improvvisazione-26-Improvisation-26-Kandinsky-1912-800x445.jpg)
+
+16. [Image 16](https://www.ilquorum.it/wp-content/uploads/2014/12/kandinsky-2.jpg)
+
+17. [Image 17](https://www.google.com/search?sa=G&hl=en-CH&q=mid+20th+century+art&tbm=isch&tbs=simg:CAQSlQEJmV9umUso0vAaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIonRGbEZoRmRGtHJ4RnBGzHqIR_1R-fKZ4phyTwIZo1oTWfNbo61zyUKRowpk_15rVU2SU6SJULLkLYpm6wVe6qiLlb_1iodKGJNr6TABmwaMueQYLhJKttEU_1DlVIAQMCxCOrv4IGgoKCAgBEgQHayiyDA&ved=0ahUKEwjk1eTG1sHZAhWP-6QKHWrDB7AQwg4IJigA&biw=1536&bih=710#imgrc=W4SkGnCol4oZvM:)
+
+18. [Image 18](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fohs8caW8PHk%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dohs8caW8PHk&docid=BTp5wueSAXWbHM&tbnid=adb_QtqdVc8YxM%3A&vet=10ahUKEwjuzIXf2MHZAhUMjqQKHaN3B9AQMwgpKAEwAQ..i&w=1280&h=720&hl=en-CH&bih=710&biw=1536&q=wassily%20kandinsky%20famous%20paintings&ved=0ahUKEwjuzIXf2MHZAhUMjqQKHaN3B9AQMwgpKAEwAQ&iact=mrc&uact=8#h=720&imgdii=YKfdg7Y-ipmAgM:&vet=10ahUKEwjuzIXf2MHZAhUMjqQKHaN3B9AQMwgpKAEwAQ..i&w=1280)
+
+19. [Image 19](https://www.google.com/search?sa=G&hl=en-CH&q=kandinsky+mussorgsky+pictures+exhibition&tbm=isch&tbs=simg:CAQSlQEJ63yEUx7KoasaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIo7xbqFqUR7gu7HPAW6Rb6C_1EW_1AujKbkruCvXPLcroimEJIMkoCmKJxowRVe3YOwfWoxcFJHLk2W9V-mtHKr7z2rOIIwGEPVQeRbMz_1BsuCnMVJisvJ1C1A83IAQMCxCOrv4IGgoKCAgBEgQr5jknDA&ved=0ahUKEwjz5PbB2cHZAhXByqQKHXzUCOMQwg4IJigA&biw=1536&bih=710#imgrc=v26a2Hyf9fit0M:)
+
+20.  [Image 20](https://www.google.com/search?sa=G&hl=en-CH&q=wassily+kandinsky+transverse+line&tbm=isch&tbs=simg:CAQSlQEJCed1g_1imNEIaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIo3hfzA-MJ3Qn8E_1QDrQr8Cc4eiRSfKfk3lCnkI9sknimvI_1AhhynkKRow-np50LtRTV5AbeVAxRmSGTPx2SeYhkApwiCQbalGATAWFAb-5A8irhOsm2FZbjkpIAQMCxCOrv4IGgoKCAgBEgRCytM6DA&ved=0ahUKEwix49zh2cHZAhXF-aQKHadPAMAQwg4IJigA&biw=1536&bih=710#imgrc=OIbl065N8s6A1M:)
+
 Best
 
 Orçun Gümüş
