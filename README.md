@@ -179,18 +179,65 @@ Id. [Image Id](link)
 19. [Image 19](https://www.google.com/search?sa=G&hl=en-CH&q=kandinsky+mussorgsky+pictures+exhibition&tbm=isch&tbs=simg:CAQSlQEJ63yEUx7KoasaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIo7xbqFqUR7gu7HPAW6Rb6C_1EW_1AujKbkruCvXPLcroimEJIMkoCmKJxowRVe3YOwfWoxcFJHLk2W9V-mtHKr7z2rOIIwGEPVQeRbMz_1BsuCnMVJisvJ1C1A83IAQMCxCOrv4IGgoKCAgBEgQr5jknDA&ved=0ahUKEwjz5PbB2cHZAhXByqQKHXzUCOMQwg4IJigA&biw=1536&bih=710#imgrc=v26a2Hyf9fit0M:)
 
 20.  [Image 20](https://www.google.com/search?sa=G&hl=en-CH&q=wassily+kandinsky+transverse+line&tbm=isch&tbs=simg:CAQSlQEJCed1g_1imNEIaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIo3hfzA-MJ3Qn8E_1QDrQr8Cc4eiRSfKfk3lCnkI9sknimvI_1AhhynkKRow-np50LtRTV5AbeVAxRmSGTPx2SeYhkApwiCQbalGATAWFAb-5A8irhOsm2FZbjkpIAQMCxCOrv4IGgoKCAgBEgRCytM6DA&ved=0ahUKEwix49zh2cHZAhXF-aQKHadPAMAQwg4IJigA&biw=1536&bih=710#imgrc=OIbl065N8s6A1M:)
+
+21. [Image 21](https://fineartamerica.com/featured/fresh-paint-2-jane-davies.html)
+
+22. [Image 22](https://fineartamerica.com/featured/finding-paradise-jennifer-lommers.html)
+
+23. [Image 23](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+colors&tbm=isch&tbs=simg:CAQSlwEJlopo8T93sjAaiwELEKjU2AQaBAgVCAgMCxCwjKcIGmIKYAgDEiiDF6gFlAmcEYMMiQmbEYIMkQSTEZ03syq4J-AohiffKKs3lCnXKJgnGjAwsPKJieD-OoOkDrIx97PaF-gRj29C_14e_13XmI1xPqw-Jh4V-S6EAUWzK6QzpRlaEgBAwLEI6u_1ggaCgoICAESBBiYeVMM&ved=0ahUKEwjt2Yj1t9zZAhVEr6QKHWU1AHUQwg4IJCgA&biw=1396&bih=623)
+
+24. [Image 24](https://www.google.ch/search?sa=G&hl=fr-CH&q=paintings+with+curved+lines&tbm=isch&tbs=simg:CAQSlQEJgGWO_1QR8l_1IaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIogxe-HsAegBemF8se_1R-rF5sRoR6UKeAo3yjbJJMphie4J7o6qzeaNRowMIT6S35DMTvBUK0yifQVyRxJ6_1DDkMTcX2FEvMRWZcHVVYPgtOXwECf27r5x4HCwIAQMCxCOrv4IGgoKCAgBEgSL_1K3UDA&ved=0ahUKEwiMtOXht9zZAhVH2KQKHV15C9EQwg4IJCgA&biw=1396&bih=623)
+
+25. [Image 25](https://www.google.ch/search?sa=G&hl=fr-CH&q=seven+churches+of+revelation+sermon+series&tbm=isch&tbs=simg:CAQSmQEJ2T5JYkdnX3oajQELEKjU2AQaBggVCAUICwwLELCMpwgaYgpgCAMSKJQJkQShHpwRlgmTEeALoAvfC4oE3yi6OuAolCnYIZ03qzfWLJEpvTcaMKb-nr5zQ1H5g07d8qMoZw_1aEOujhjKT3gNGonR5Ui2i5W6ta0LTQNZZzMzz1skm3SAEDAsQjq7-CBoKCggIARIEWsdpNQw&ved=0ahUKEwj3s7vJt9zZAhXI1qQKHe7mCekQwg4IJCgA&biw=1396&bih=623)
+
+26. [Image 26](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+art+with+blue&tbm=isch&tbs=simg:CAQSmQEJh2Zp1IJMLvMajQELEKjU2AQaBggVCAEICQwLELCMpwgaYgpgCAMSKOkVhQyXC5kL-BaJHvkWmAuQF_1cW5yi1Law3ySLEIuEo8yOrN-QoqCQaMDYf95SCQDRdXlDVnouHex-JQIi-WzVFYUI4Aq6VJAG-fozwwNoG2C3s2LY1eqBqMiAEDAsQjq7-CBoKCggIARIEQJWWCgw&ved=0ahUKEwiz8pS5t9zZAhWQyaQKHdWWDdoQwg4IJCgA&biw=1396&bih=623) 
+
+27. [Image 27](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+artist+paintings&tbm=isch&tbs=simg:CAQSlQEJ5JKJr6Bmq68aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh75FqYXkQTgC7YD2wufC9wLuBbfKOAo1j6UKbo64CHWLNgh1T7eKBowqF0v6PbDch2CDr92WVbBzGzC7LQ1pJ9nYi8CvHSS9APXflOWVeVN4i0vTUKzW4jcIAQMCxCOrv4IGgoKCAgBEgQ_1uBe1DA&ved=0ahUKEwior5aOt9zZAhUSLewKHfycAPAQwg4IJCgA&biw=1396&bih=623)
+
+28. [Image 28]https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+artist+paintings&tbm=isch&tbs=simg:CAQSlQEJ5JKJr6Bmq68aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh75FqYXkQTgC7YD2wufC9wLuBbfKOAo1j6UKbo64CHWLNgh1T7eKBowqF0v6PbDch2CDr92WVbBzGzC7LQ1pJ9nYi8CvHSS9APXflOWVeVN4i0vTUKzW4jcIAQMCxCOrv4IGgoKCAgBEgQ_1uBe1DA&ved=0ahUKEwior5aOt9zZAhUSLewKHfycAPAQwg4IJCgA&biw=1396&bih=623)
+
+29. [Image 29](https://www.google.ch/search?sa=G&hl=fr-CH&q=citra+foto+inframerah+berwarna&tbm=isch&tbs=simg:CAQSlwEJyzmByF-ga3AaiwELEKjU2AQaBAgVCAkMCxCwjKcIGmIKYAgDEij5Fr4ekQSFDOALrwPLHqEe3Au2A98o4CjWPpQp2CG6OuAhojf5N-s3GjA2ZM9C8Hfw-4NGQe9kMmPPjPXGnwyn5tLiLEtshZM0Ald886C16a1FLe9nk51tiXAgBAwLEI6u_1ggaCgoICAESBHO99UIM&ved=0ahUKEwi5zJCBt9zZAhUE26QKHdpSBVMQwg4IJCgA&biw=1396&bih=623)
+
+30. [Image 30](https://www.google.ch/search?sa=G&hl=fr-CH&q=color+explosion+abstract&tbm=isch&tbs=simg:CAQSmQEJrPgGUWgGT0cajQELEKjU2AQaBggVCAQICAwLELCMpwgaYgpgCAMSKL4etgPgC5QJpheRBL8e3wvbC8Ae3yjgKLgnhiedN5QpqzfwIdkosyoaMOqGr56o2PMW5PjhWgLskaYSmY3JS-AXodsExE4g9DWh1d1Rq7aLQDg4xb4TSMqMaSAEDAsQjq7-CBoKCggIARIEcJVJ_1gw&ved=0ahUKEwjv5MnsttzZAhVHsaQKHdJKBVkQwg4IJCgA&biw=1396&bih=623) 
+
+31. [Image 31](http://www.connryder.com/)
+
+32. [Image 32](https://www.google.ch/search?sa=G&hl=fr-CH&q=amaan+khan+ali+/+elmira+darvarova+/+tanmoy+bose:+soul+strings+cd&tbm=isch&tbs=simg:CAQSmQEJYsFGgMawUEEajQELEKjU2AQaBggVCAYICAwLELCMpwgaYgpgCAMSKL4eggz9EIgRpgXAHssephebEeED3yi6OpQp4CjYIfAhkSmeKdY-uCcaMGkvr2-Vw_1GDkOSPXAlY6bDNpujk2W7h2uMEIp8vYMfDsgpvoBmJQP-6sUGkUuLIFiAEDAsQjq7-CBoKCggIARIESJqiIQw&ved=0ahUKEwjpianQttzZAhVG2KQKHWyvBs0Qwg4IJCgA&biw=1396&bih=623)
+
+33. [Image 33](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+art+desktop+backgrounds&tbm=isch&tbs=simg:CAQSlQEJ73X9qdm24tkaiQELEKjU2AQaBAgVCAYMCxCwjKcIGmAKXggDEiZnvwmCDMAHZogRvgnyEPkWpgXfKOAh4CiUKdco1j66OrMqnTfWKBowByT6vgdCLoLuXL7x8cUz9MAdZnZLuKZm36zpRHeerCnXbW0aPs6AL7tFS5Kx_1wvdIAQMCxCOrv4IGgoKCAgBEgTT7cUQDA&ved=0ahUKEwjRg_q5ttzZAhVPCewKHULaAdYQwg4IJCgA&biw=1396&bih=623)
+
+34. [Image 34](https://www.artmajeur.com/en/art-gallery/alena-shymchonak/312361/flower-emotions-abstract-ready-to-hang/9125974)
+
+35. [Image 35](https://www.artzolo.com/painting/two-worlds)
+
+36. [Image 36](https://inspirationseek.com/wp-content/uploads/2014/06/Abstract-Painting.jpg)
+
+37. [Image 37](http://www.cianellistudios.com/blog/wp-content/uploads/2010/12/abstract_art_paintings_me.jpg)
+
 38. [Image 38](https://hdwallsource.com/colorful-palette-wallpaper-45019.html)
+
 39. [Image 39](https://www.widewalls.ch/what-is-abstract-art-informel/)
+
 40. [Image 40](http://reibun.skry.info/?p=10064)
+
 41. [Image 41](http://thewallpaper.co/abstract-art-painting-sabina-d-antonio-cafe-delight-cool-artworks-art-wallpapers-for-mac-download-images-1217x728/)
+
 42. [Image 42](http://www.christeas.com/)
+
 43. [Image 43](https://www.pinterest.ch/explore/abstract-art/)
+
 44. [Image 44](https://www.google.com/search?hl=en-CH&q=modern+art&tbm=isch&tbs=simg:CAQSmQEJupWDykhHmKcajQELEKjU2AQaBggVCAEICQwLELCMpwgaYgpgCAMSKL4e_1R_1AHoMXgBebEcse_1B-mF8YelCnfKNsknym6OuAomjX5N_1AhnikaMEUQT2CiADD7h2C9Iob1js0Uue1qLAPXHmKvSA7LvaDC8j4FYJJgTDhvTNr9OYtdMSAEDAsQjq7-CBoKCggIARIEx0rHdgw&sa=X&ved=0ahUKEwjRoLSKwN3ZAhXhAsAKHfDxD60Qwg4IJigA&biw=1536&bih=710&dpr=1.25)
+
 45. [Image 45](https://www.google.com/search?hl=en-CH&q=Sculpture&tbm=isch&tbs=simg:CAQSlwEJnaaPfSd_1WZEaiwELEKjU2AQaBAgVCAIMCxCwjKcIGmIKYAgDEijDF8UKxxeSDMIX0QrKCuYKgQTSCvY19zXeKpQp4CfZIv815TiHNro6GjBNH3k3NTkdtgjFFFPPtOtpj3-Gim2FiOTezKCxZt2_1twFby0I423DlcQ0zuGegSt8gBAwLEI6u_1ggaCgoICAESBGO0MzMM&sa=X&ved=0ahUKEwiRu5DGwN3ZAhWBXMAKHZoNA3QQwg4IJigA&biw=1536&bih=710)
+
 46. [Image 46](https://www.google.com/search?sa=G&hl=en-CH&q=spiritual+art+paintings&tbm=isch&tbs=simg:CAQSmQEJGc--oFnYQl8ajQELEKjU2AQaBggVCAUICAwLELCMpwgaYgpgCAMSKKAL7QuKBOEWlAmfC6YXgxe-HpEE3yi6OpQp4CjWLNgh2yTWPpMp2SwaMP5XT-jrQ31iypOicRDe0bl99m7JC7fMGMNYYmuVuyiisqYqWhfr5-AtzWcP2slucyAEDAsQjq7-CBoKCggIARIE5vbjdAw&ved=0ahUKEwiChf3awN3ZAhXoCMAKHaXoBgkQwg4IJigA&biw=1536&bih=710)
+
 47. [Image 47](https://www.google.com/search?hl=en-CH&q=example+of+abstract+art+paintings&tbm=isch&tbs=simg:CAQSlQEJ9AxGFZ1a4Q8aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIoqReUCf0V5AieC_1wViAvfFo8JhgvfKLo61j7DIr032CG7OtkslCnSKBowXKB6tHYgKVQvNE-yJEZBAjpYPFhUVZocQik7_1GUcWr8yPlrrfoHNjAFJ5VVTvn5OIAQMCxCOrv4IGgoKCAgBEgRFEqilDA&sa=X&ved=0ahUKEwjT_4f9wN3ZAhUBCcAKHdOqBr0Qwg4IJigA&biw=1536&bih=710)
+
 48. [Image 48](https://www.google.com/search?sa=G&hl=en-CH&q=abstract+art+emotion&tbm=isch&tbs=simg:CAQSlQEJuKJgLy_1RPSMaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh7LHr8e3RfMHtwX_1B_1UHv0fvB7wIZo1nymUKbgr5Cm3K6E1tieqORowFmSv3MFdeS98yNci4zwR9NaiemJy9RDWj6UNsOTyOSHsg_1Je1hotTsn2yjeiVibLIAQMCxCOrv4IGgoKCAgBEgSFsEHiDA&ved=0ahUKEwiIj96Owd3ZAhViFMAKHR-1ClgQwg4IJigA&biw=1536&bih=710)
+
 49. [Image 49](https://www.google.com/search?sa=G&hl=en-CH&q=Oil+painting&tbm=isch&tbs=simg:CAQSlQEJlXQgoCGLy8EaiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh61A7YDphePCasX2AjfCb8euh6UKfAh3yiFI7gn4CH5N7Mq4CiaNRowSIEvtIs3XmumCyI1E4uA56948SR4z-rlYitTTEfHpMLuJckfuQDUNxMySTSyH2hkIAQMCxCOrv4IGgoKCAgBEgTZql5cDA&ved=0ahUKEwiYsMGkwd3ZAhVjDcAKHZsYAJcQwg4IJigA&biw=1536&bih=710)
+
 Best
 
 Orçun Gümüş
