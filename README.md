@@ -194,7 +194,7 @@ Id. [Image Id](link)
 
 27. [Image 27](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+artist+paintings&tbm=isch&tbs=simg:CAQSlQEJ5JKJr6Bmq68aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh75FqYXkQTgC7YD2wufC9wLuBbfKOAo1j6UKbo64CHWLNgh1T7eKBowqF0v6PbDch2CDr92WVbBzGzC7LQ1pJ9nYi8CvHSS9APXflOWVeVN4i0vTUKzW4jcIAQMCxCOrv4IGgoKCAgBEgQ_1uBe1DA&ved=0ahUKEwior5aOt9zZAhUSLewKHfycAPAQwg4IJCgA&biw=1396&bih=623)
 
-28. [Image 28]https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+artist+paintings&tbm=isch&tbs=simg:CAQSlQEJ5JKJr6Bmq68aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh75FqYXkQTgC7YD2wufC9wLuBbfKOAo1j6UKbo64CHWLNgh1T7eKBowqF0v6PbDch2CDr92WVbBzGzC7LQ1pJ9nYi8CvHSS9APXflOWVeVN4i0vTUKzW4jcIAQMCxCOrv4IGgoKCAgBEgQ_1uBe1DA&ved=0ahUKEwior5aOt9zZAhUSLewKHfycAPAQwg4IJCgA&biw=1396&bih=623)
+28. [Image 28](https://www.google.ch/search?sa=G&hl=fr-CH&q=abstract+artist+paintings&tbm=isch&tbs=simg:CAQSlQEJ5JKJr6Bmq68aiQELEKjU2AQaAggVDAsQsIynCBpiCmAIAxIovh75FqYXkQTgC7YD2wufC9wLuBbfKOAo1j6UKbo64CHWLNgh1T7eKBowqF0v6PbDch2CDr92WVbBzGzC7LQ1pJ9nYi8CvHSS9APXflOWVeVN4i0vTUKzW4jcIAQMCxCOrv4IGgoKCAgBEgQ_1uBe1DA&ved=0ahUKEwior5aOt9zZAhUSLewKHfycAPAQwg4IJCgA&biw=1396&bih=623)
 
 29. [Image 29](https://www.google.ch/search?sa=G&hl=fr-CH&q=citra+foto+inframerah+berwarna&tbm=isch&tbs=simg:CAQSlwEJyzmByF-ga3AaiwELEKjU2AQaBAgVCAkMCxCwjKcIGmIKYAgDEij5Fr4ekQSFDOALrwPLHqEe3Au2A98o4CjWPpQp2CG6OuAhojf5N-s3GjA2ZM9C8Hfw-4NGQe9kMmPPjPXGnwyn5tLiLEtshZM0Ald886C16a1FLe9nk51tiXAgBAwLEI6u_1ggaCgoICAESBHO99UIM&ved=0ahUKEwi5zJCBt9zZAhUE26QKHdpSBVMQwg4IJCgA&biw=1396&bih=623)
 
